@@ -19,7 +19,7 @@ We began by performing EDA to uncover trends and relationships in the dataset. K
 
 To prepare the data for modeling, we:
 
-* Dropped irrelevant features: PassengerId, Name, Ticket, and Cabin
+* Dropped irrelevant features: PassengerId, Name, Ticket
 * Imputed missing values in Age and Embarked
 * Encoded categorical variables (Sex and Embarked) using label encoding and one-hot encoding
 * Created two new features:
